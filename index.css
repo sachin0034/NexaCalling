@@ -6,8 +6,8 @@
       }
 
       .logo {
-        width: 420px; /* Adjust size as needed */
-        height: 340px; /* Maintain aspect ratio */
+        width: 320px; /* Adjust size as needed */
+        height: 240px; /* Maintain aspect ratio */
         border-radius: 50%; /* Add border radius */
         margin-top: 20px; /* Adjust margin to move the logo to the top */
         position: absolute; /* Position the logo absolutely */
